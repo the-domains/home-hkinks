@@ -1,6 +1,7 @@
 name: /home/hkinks
 favicon: null
 layout_spectrum: 0.29032
+typography_spectrum: 0.73333
 cta:
   domain: null
   bucket: null
