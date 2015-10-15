@@ -5,7 +5,7 @@
         <description><![CDATA[/home/hkinks]]></description>
         <link>https://thegrid.ai/home-hkinks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 15 Oct 2015 12:00:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2015 12:00:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/home-hkinks/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Firmast]]></title>
@@ -13,13 +13,6 @@
             <link>https://thegrid.ai/home-hkinks/firmast/index.html</link>
             <guid isPermaLink="false">ee1ec847-5115-4408-9a99-dadd7168b92d</guid>
             <pubDate>Thu, 15 Oct 2015 11:59:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trying out The Grid]]></title>
-            <description><![CDATA[<article><h1>Trying out The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p></article>]]></description>
-            <link>https://thegrid.ai/home-hkinks/trying-out-the-grid/index.html</link>
-            <guid isPermaLink="false">c157671b-1482-41d3-90f7-bd9d05a84807</guid>
-            <pubDate>Sun, 11 Oct 2015 08:44:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
