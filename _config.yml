@@ -1,6 +1,6 @@
 name: /home/hkinks
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.29032
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#ffffff'
     - '#000000'
   brandStrength: 1
-  lightness: 0.5
-  saturation: 0.5
+  lightness: 0.75
+  saturation: 0.4375
   rhythmicContrast: 0.5
 purpose:
   - name: follow
